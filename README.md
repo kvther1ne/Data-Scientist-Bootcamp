@@ -11,3 +11,7 @@ School 21 bootcamp
 [Module 4: REST-API](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_4)
 
 [Module 5: Introduction to Machine Learning](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_5)
+
+[Module 6: Gradient](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_6)
+
+[Module 5: Decision Tree Classification](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_7)
