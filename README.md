@@ -1,6 +1,6 @@
 # Data-Scientist-Bootcamp
 
-School 21 bootcamp
+School 21 bootcamp 
 
 [Module 1: Python basics](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_1)
 
