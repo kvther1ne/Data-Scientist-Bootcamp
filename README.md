@@ -15,3 +15,5 @@ School 21 bootcamp
 [Module 6: Gradient](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_6)
 
 [Module 7: Decision Tree Classification](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_7)
+
+[Module 8: Unsupervised learning](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_8)
