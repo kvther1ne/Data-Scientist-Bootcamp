@@ -17,3 +17,11 @@ School 21 bootcamp
 [Module 7: Decision Tree Classification](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_7)
 
 [Module 8: Unsupervised learning](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_8)
+
+[Module 9: Introduction to SQL](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_9)
+
+[Module 10: Machine Learning](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_10)
+
+[Module 11: Applied Statistics](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_11)
+
+[Module 12: Pipelines, Transformers](https://github.com/kvther1ne/Data-Scientist-Bootcamp/tree/main/module_12)
